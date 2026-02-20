@@ -1,9 +1,2 @@
 langchain
 numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-tensorflow
-torch
-transformers

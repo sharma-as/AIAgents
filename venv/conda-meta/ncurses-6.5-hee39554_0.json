@@ -3531,7 +3531,7 @@
         "path_type": "hardlink",
         "sha256": "5528d563e532807c8e71f41d1bf21747838506cf64e1d1f4032be4dda2aaf80d",
         "size_in_bytes": 218832,
-        "sha256_in_prefix": "dfcb88e159bdb2c8965ee7f1a4597053b51c886953b39abc13b5055ebd690b92"
+        "sha256_in_prefix": "5c85e26c95a9e098d019367fe1d020085557862aeef7294ae7af7a63815b9eb0"
       },
       {
         "_path": "lib/libncursesw.a",
@@ -3609,7 +3609,7 @@
         "path_type": "hardlink",
         "sha256": "b5306f45123755f3b3732e238e363e55e42014174367b1a12b2d3a80f98609de",
         "size_in_bytes": 239056,
-        "sha256_in_prefix": "1baf9d4a451af1a884ecc8ebbe62882466c1a15b8658363160146a34d0a3bcde"
+        "sha256_in_prefix": "9bb98eef62be63579cdd4353652ba1f5a27e1bc2849f78d67f18bbf74119117d"
       },
       {
         "_path": "lib/libtinfow.a",
